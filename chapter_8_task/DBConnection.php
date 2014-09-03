@@ -1,6 +1,5 @@
 <?php
 
-
 /**
 * Database connection class
 */
